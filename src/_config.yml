@@ -39,3 +39,4 @@ sphinx:
   extra_extensions: []
   config:
     intersphinx_mapping: {}
+    html_static_path: ['_images']
